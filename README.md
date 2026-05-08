@@ -4,7 +4,7 @@ Baon-Venture is an educational simulation game designed for Grade 4 learners in 
 Players take on the role of an aspiring **"Budget Hero"** who must manage a weekly _baon_ (allowance), navigate randomized "Life Events," and practice the value of _pagtitipid_ (thriftiness) to achieve a greater goal: helping their _kapwa_ (community).
 
 ## How to Play
-**Baon-Venture** is designed as a 5-to-10 minute collaborative classroom activity. It is best played in small groups using a shared device with intenert connection and a browser to encourage discussion and consensus. 
+**Baon-Venture** is designed as a 5-to-10 minute collaborative classroom activity. It is best played in small groups using a shared device with internet connection and a browser to encourage discussion and consensus. 
 
 Access the game here: https://adventuresguild.github.io/baon-venture/
 
@@ -18,7 +18,7 @@ JAM (Lead Developer)
 
 QuestEd Adventures Guild
 
-**Music & Sounde Effets**
+**Music & Sounde Effects**
 
 Itty Bitty 8 Bit – Kevin MacLeod
 
